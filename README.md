@@ -9,4 +9,4 @@ Proteus simulation Diagram
 
 
 References - https://www.electronicwings.com/avr-atmega/atmega16-interface-with-esp8266-module
-Note - In this article atmega16 is used, here we have used atmega 328p. To obtain working functionality in 328p we have to change registers and interupt service routine rest of the code is working smoothly. 
+<br/> Note - In this article atmega16 is used, here we have used atmega 328p. To obtain working functionality in 328p we have to change registers and interupt service routine rest of the code is working smoothly. 
