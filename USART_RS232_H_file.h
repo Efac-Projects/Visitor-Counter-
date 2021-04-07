@@ -1,6 +1,5 @@
 /*
  * USART_RS232_H_file.h
- * http://www.electronicwings.com
  *
  */ 
 

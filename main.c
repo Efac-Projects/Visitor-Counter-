@@ -48,8 +48,6 @@
 #define ACCESSPOINT						2
 #define BOTH_STATION_AND_ACCESPOINT		3
 
-/* Select Demo */
-//#define RECEIVE_DEMO				/* Define RECEIVE demo */
 #define SEND_DEMO					/* Define SEND demo */
 
 /* Define Required fields shown below */
@@ -58,8 +56,9 @@
 #define API_WRITE_KEY		"AGFBHZB7CHJTN4TV"
 #define CHANNEL_ID			"1344229"
 
-#define SSID				"SLT-LTE-WiFi-65BD"
-#define PASSWORD			"JBN8NN5E7NY"
+
+#define SSID				" " //Enter your router SSID
+#define PASSWORD			" " //Enter your router password
 
 enum ESP8266_RESPONSE_STATUS{
 	ESP8266_RESPONSE_WAITING,
